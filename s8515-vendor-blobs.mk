@@ -185,6 +185,7 @@ PRODUCT_COPY_FILES += \
     vendor/nvidia/s8515/proprietary/etc/bluetooth/bt_did.conf:system/etc/bluetooth/bt_did.conf \
     vendor/nvidia/s8515/proprietary/etc/bluetooth/bt_stack.conf:system/etc/bluetooth/bt_stack.conf \
     vendor/nvidia/s8515/proprietary/etc/model_frontal.xml:system/etc/model_frontal.xml \
+    vendor/nvidia/s8515/proprietary/etc/apns-conf.xml:system/etc/apns-conf.xml 
     vendor/nvidia/s8515/proprietary/etc/enctune.conf:system/etc/enctune.conf \
     vendor/nvidia/s8515/proprietary/etc/dhcpcd/dhcpcd.conf:system/etc/dhcpcd/dhcpcd.conf \
     vendor/nvidia/s8515/proprietary/etc/asound.conf:system/etc/asound.conf \
